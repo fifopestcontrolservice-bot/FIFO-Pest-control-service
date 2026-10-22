@@ -1,0 +1,6 @@
+{
+  "name": "FIFO Pest Control – Instant Quotation & Booking",
+  "description": "Professional pest control services in Salem, Namakkal, Erode, and Coimbatore. Calculate your instant home or business pest treatment quotation and connect directly via WhatsApp or phone.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

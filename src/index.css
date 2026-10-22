@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --bg: #0a0c0a;
+  --card: #131713;
+  --card2: #1a201a;
+  --line: #2b342b;
+  --gold: #d4af37;
+  --gold2: #f0d675;
+  --green: #2fbf6b;
+  --text: #f4f2ea;
+  --muted: #a1aaa1;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #0a0c0a;
+  color: #f4f2ea;
+  min-height: 100vh;
+}
+
+.font-serif-heading {
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
+}
+
+.font-brand {
+  font-family: 'Cinzel', Georgia, serif;
+}
